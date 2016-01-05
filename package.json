@@ -1,6 +1,6 @@
 {
   "name": "squiggle-browserify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A browserify plugin for squiggle",
   "main": "src/main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wavebeem/squiggle-browserify.git"
+    "url": "git+https://github.com/squiggle-lang/squiggle-browserify.git"
   },
   "keywords": [
     "browserify",
@@ -20,11 +20,12 @@
   "author": "Brian Mock <brian@mockbrian.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wavebeem/squiggle-browserify/issues"
+    "url": "https://github.com/squiggle-lang/squiggle-browserify/issues"
   },
-  "homepage": "https://github.com/wavebeem/squiggle-browserify#readme",
+  "homepage": "https://github.com/squiggle-lang/squiggle-browserify#readme",
   "dependencies": {
-    "squiggle-lang": "^0.3.2",
+    "chalk": "^1.1.1",
+    "squiggle-lang": "^0.11.3",
     "through": "^2.3.8"
   }
 }
