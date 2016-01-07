@@ -1,6 +1,6 @@
 {
   "name": "squiggle-browserify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A browserify plugin for squiggle",
   "main": "src/main.js",
   "scripts": {
